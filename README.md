@@ -9,8 +9,8 @@ La [documentació es pot trobar també en llengua castellana](https://github.com
   
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Ulleres |![](Imatges/Boligraf2D.png) | [Ulleres](DOC_CAT/TallerBoligraf2D_Llana_CAT.pdf)
-Varetes |![](Imatges/Boligraf3D.png) | [Varetes](DOC_CAT/Taller_de_Bolígraf_3D_CAT.pdf)
+Ulleres |![](Imatges/Ulleres.png) | [Ulleres](STL/Ulleres.stl)
+Varetes |![](Imatges/Varetes.png) | [Varetes](STL/Varetes.stl)
 
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
