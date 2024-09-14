@@ -1,2 +1,19 @@
 # Ulleres-de-colors
 Es tracta construir unes ulleres amb impressió 3D, que munten LEDs Neopixels i es poden generar centenars de combinacions de llum.  
+
+Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
+
+La [documentació es pot trobar també en llengua castellana](https://github.com/maynej/Tallers-per-compartir/tree/main/DOC_ESP). 
+
+# Construcció 
+  
+Descripció         | Imatge          | Arxiu PDF    
+------------- | ------------- | ------------- 
+Ulleres |![](Imatges/Boligraf2D.png) | [Ulleres](DOC_CAT/TallerBoligraf2D_Llana_CAT.pdf)
+Varetes |![](Imatges/Boligraf3D.png) | [Varetes](DOC_CAT/Taller_de_Bolígraf_3D_CAT.pdf)
+
+
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
+
+## QR
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FSmarthome-1x1-Module&s=6&e=m" alt="QR Code generator"/>
