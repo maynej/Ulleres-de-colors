@@ -7,7 +7,7 @@ La [documentació es pot trobar també en llengua castellana](https://github.com
 
 # Construcció 
   
-Descripció         | Imatge          | Arxiu PDF    
+Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
 Ulleres |![](Imatges/Ulleres.png) | [Ulleres](STL/Ulleres.stl)
 Varetes |![](Imatges/Varetes.png) | [Varetes](STL/Varetes.stl)
