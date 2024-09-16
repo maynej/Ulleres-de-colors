@@ -5,7 +5,7 @@ Es tracta construir unes ulleres amb impressió 3D, que munten LEDs Neopixels i 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La documentació està disponible també en castellà i anglés [en PDF](https://github.com/maynej/Ulleres-de-colors/tree/main/Doc/). 
+La documentació està disponible també en castellà [en PDF](https://github.com/maynej/Ulleres-de-colors/tree/main/Doc/). 
 
 # Construcció 
   
