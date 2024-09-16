@@ -7,7 +7,7 @@ Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 La documentació està disponible també en castellà [en PDF](https://github.com/maynej/Ulleres-de-colors/tree/main/Doc/). 
 
-# Construcció 
+# Arxius per imprimir 
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
