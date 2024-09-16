@@ -1,7 +1,7 @@
 # Ulleres-de-colors
 Es tracta construir unes ulleres amb impressió 3D, que munten LEDs Neopixels i es poden generar centenars de combinacions de llum.  
 
-<img src="Imatges/Ulleres.jpg" width="500" />
+<img src="Imatges/Ulleres.jpg" width="100" />
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
