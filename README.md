@@ -13,8 +13,8 @@ Descripció         | Imatge          | Arxiu STL
 ------------- | ------------- | ------------- 
 Ulleres |![](Imatges/Ulleres.png) | [Ulleres](STL/Ulleres.stl)
 Varetes |![](Imatges/Varetes.png) | [Varetes](STL/Varetes.stl)
-Clip Esquerra |![](Imatges/ClipE.png) | [Varetes](STL/ClipE.stl)
-Clip Dret |![](Imatges/ClipD.png) | [Varetes](STL/ClipD.stl)
+Clip Esquerra |![](Imatges/ClipE.png) | [Clip E](STL/ClipE.stl)
+Clip Dret |![](Imatges/ClipD.png) | [Clip D](STL/ClipD.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
